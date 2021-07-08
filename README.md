@@ -10,11 +10,17 @@ Knapsack problem is a constrained combinatorial optimization problem that refers
 exceeding its weight limit. To sum up, it is a NP-complete problem that finds high values within a limited weight.
 
 For example, let’s assume that there are 4 items. 
+
 [value, weight]
+
 item 1 = [120, 13]
+
 item 2 = [54, 6]
+
 item 3 = [28, 15]
+
 item 4 = [49, 9]
+
 If the max weight is 32, this knapsack problem answer is to pick first, second, and last items. The max value is 223.
 
 # Knapsack Problem with VQE
